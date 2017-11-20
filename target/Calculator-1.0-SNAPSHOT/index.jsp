@@ -21,7 +21,7 @@
                         <td><input type="text" name="Data" value="" size="75" /></td>
                     </tr>
                     <tr>
-                        <td>Select the algorithm to be used for encryption:</td>
+                        <td>Select the algorithm to be used for encryption of your Input:</td>
                         <td><input type="radio" name="Hash" value="MD5" checked="checked"> MD5
                         <input type="radio" name="Hash" value="SHA"/> SHA-1</td>
                     </tr>
