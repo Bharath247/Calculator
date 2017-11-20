@@ -4,7 +4,7 @@
 
     <groupId>Calci_Maven</groupId>
     <artifactId>Calculator</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <name>Calculator</name>
